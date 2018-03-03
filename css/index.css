@@ -793,29 +793,29 @@ img.header_logo{
 }
 .screen-5 .report1 ul li:nth-child(1):after{
 	display: block;
-	content: "---------------------------------------------------";
+	content: "----------------------------------------------------------------------------------------";
 	line-height: 0.04rem;
 	width:3.8rem;
 	
-    	text-overflow: ellipsis;
+    	text-overflow: clip;
     	white-space: nowrap;
 }
 .screen-5 .report1 ul li:nth-child(2):after{
 	display: block;
-	content: "---------------------------------------------------";
+	content: "----------------------------------------------------------------------------------------";
 	line-height: 0.04rem;
 	width:3.8rem;
 	
-    	text-overflow: ellipsis;
+    	text-overflow: clip;
     	white-space: nowrap;
 }
 .screen-5 .report1 ul li:nth-child(3):after{
 	display: block;
-	content: "---------------------------------------------------";
+	content: "----------------------------------------------------------------------------------------";
 	line-height: 0.04rem;
 	width:3.8rem;
 	
-    	text-overflow: ellipsis;
+    	text-overflow: clip;
     	white-space: nowrap;
 }
 /*第六屏*/
