@@ -794,17 +794,20 @@ img.header_logo{
 .screen-5 .report1 ul li:nth-child(1):after{
 	display: block;
 	content: "---------------------------------------------------";
-	line-height: 0.04rem
+	line-height: 0.04rem;
+	width:3.8rem;
 }
 .screen-5 .report1 ul li:nth-child(2):after{
 	display: block;
 	content: "---------------------------------------------------";
-	line-height: 0.04rem
+	line-height: 0.04rem;
+	width:3.8rem;
 }
 .screen-5 .report1 ul li:nth-child(3):after{
 	display: block;
 	content: "---------------------------------------------------";
-	line-height: 0.04rem
+	line-height: 0.04rem;
+	width:3.8rem;
 }
 /*第六屏*/
 .screen-6{
