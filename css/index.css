@@ -796,18 +796,27 @@ img.header_logo{
 	content: "---------------------------------------------------";
 	line-height: 0.04rem;
 	width:3.8rem;
+	width: 3.8rem;
+    	text-overflow: ellipsis;
+    	white-space: nowrap;
 }
 .screen-5 .report1 ul li:nth-child(2):after{
 	display: block;
 	content: "---------------------------------------------------";
 	line-height: 0.04rem;
 	width:3.8rem;
+	width: 3.8rem;
+    	text-overflow: ellipsis;
+    	white-space: nowrap;
 }
 .screen-5 .report1 ul li:nth-child(3):after{
 	display: block;
 	content: "---------------------------------------------------";
 	line-height: 0.04rem;
 	width:3.8rem;
+	width: 3.8rem;
+    	text-overflow: ellipsis;
+    	white-space: nowrap;
 }
 /*第六屏*/
 .screen-6{
