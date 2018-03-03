@@ -283,7 +283,7 @@ img.header_logo{
 .screen-2 .project_header a{
 	text-decoration: none;
 	display: inline-block;
-	width:1.2rem;
+	/*width:1.2rem; */
 	height: 0.24rem;
 	border-radius: 0.1rem;
 	background-color: #e00009;
@@ -586,7 +586,7 @@ img.header_logo{
 .screen-4 .case_heading a{
 	text-decoration: none;
 	display: inline-block;
-	width:1.2rem;
+	/* width:1.2rem; */
 	height: 0.24rem;
 	border-radius: 0.1rem;
 	background-color: #e00009;
@@ -845,7 +845,7 @@ img.header_logo{
 .screen-6 .case_heading a{
 	text-decoration: none;
 	display: inline-block;
-	width:1.2rem;
+	/*width:1.2rem;*/
 	height: 0.24rem;
 	border-radius: 0.1rem;
 	background-color: #e00009;
@@ -912,7 +912,7 @@ img.header_logo{
 .screen-7 .case_heading a{
 	text-decoration: none;
 	display: inline-block;
-	width:1.2rem;
+	/* width:1.2rem; */
 	height: 0.24rem;
 	border-radius: 0.1rem;
 	background-color: #e00009;
